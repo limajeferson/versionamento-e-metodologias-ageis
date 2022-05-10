@@ -9,7 +9,7 @@
 ``` 
 S3C1. Entender os comandos básicos e aplicar o controle de versionamento utilizando o Git;
 S3C2. Identificar os principais termos e princípios utilizados na metodologia ágil SCRUM;
-S3C3. nterpretar o fluxo e as etapas da metodologia ágil SCRUM.
+S3C3. Interpretar o fluxo e as etapas da metodologia ágil SCRUM.
 ```
 
 `Link para o quadro com o planejamento` [clique aqui](https://trello.com/b/diwuiOYn/versionamento-e-metodologias-%C3%A1geis)
